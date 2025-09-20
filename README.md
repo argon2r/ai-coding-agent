@@ -23,5 +23,5 @@ The agent leverages the Gemini API and a set of tools to read, write, run, and f
 Clone the repository:
 
 ```bash
-git clone https://github.com/YOUR-USERNAME/devly_ai.git
-cd devly_ai
+git clone https://github.com/YOUR-USERNAME/devly-ai.git
+cd devly-ai
