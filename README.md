@@ -1,4 +1,4 @@
-# ai-coding-agent
+# Devly AI
 
 An experimental AI-powered coding assistant built with Python.  
 The agent leverages the Gemini API and a set of tools to read, write, run, and fix code automatically.
@@ -23,5 +23,5 @@ The agent leverages the Gemini API and a set of tools to read, write, run, and f
 Clone the repository:
 
 ```bash
-git clone https://github.com/YOUR-USERNAME/ai-coding-agent.git
-cd ai-coding-agent
+git clone https://github.com/YOUR-USERNAME/devly_ai.git
+cd devly_ai
